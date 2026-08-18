@@ -36,4 +36,4 @@ All-in-one **Chatgpt Plus Prime** AI solution featuring text, image, and multimo
 ---
 
 ## ⚠️ Disclaimer
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.  

@@ -17,8 +17,8 @@ All-in-one **Chatgpt Plus Prime** AI solution featuring text, image, and multimo
 ---
 
 ## Get it
-- 📥 **Get the latest build:** [https://chatgpt-plus-prime.softonx.xyz](https://chatgpt-plus-prime.softonx.xyz)
-- 📖 **Details & docs:** [https://chatgpt-plus-prime.softonx.xyz](https://chatgpt-plus-prime.softonx.xyz)
+- 📥 **Get the latest build:** [https://chatgpt-plus-prime.softax.xyz](https://chatgpt-plus-prime.softax.xyz)
+- 📖 **Details & docs:** [https://chatgpt-plus-prime.softax.xyz](https://chatgpt-plus-prime.softax.xyz)
 
 ---
 
